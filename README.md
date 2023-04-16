@@ -14,3 +14,6 @@
 
 ##### Tutorial 3 
 - Implementation of a simple backpropogation 
+
+##### Tutorial 4 
+- Gradient Descent implementation 
