@@ -10,3 +10,7 @@
 
 ##### Tutorial 2 
 - AutoGrad operations , and also how to make sure that history is not recorded in the compuatational graph 
+
+
+##### Tutorial 3 
+- Implementation of a simple backpropogation 
